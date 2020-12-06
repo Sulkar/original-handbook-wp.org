@@ -149,4 +149,4 @@ class WPorg_Handbook_Callout_Boxes {
 	}
 }
 
-$callouts = new WPorg_Handbook_Callout_Boxes();
+//$callouts = new WPorg_Handbook_Callout_Boxes();

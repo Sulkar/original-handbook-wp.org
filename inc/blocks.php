@@ -57,4 +57,4 @@ class WPorg_Handbook_Blocks {
 	}
 }
 
-WPorg_Handbook_Blocks::init();
+//WPorg_Handbook_Blocks::init();
